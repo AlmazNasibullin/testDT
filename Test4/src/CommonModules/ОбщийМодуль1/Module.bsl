@@ -1,4 +1,4 @@
 Procedure test()
-	a = 2;
+	a = 3;
 	b = 2;
 EndProcedure
