@@ -30,4 +30,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ОбщийМодуль1</commonModules>
+  <commonModules>CommonModule.ОбщийМодуль2</commonModules>
 </mdclass:Configuration>
