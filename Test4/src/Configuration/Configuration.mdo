@@ -19,7 +19,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
-  <compatibilityMode>Version8_3_8</compatibilityMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
   <languages uuid="f0da0aae-cb5f-4260-a8c0-2c546a8aa3b4">
     <name>Русский</name>
     <synonym>
@@ -28,5 +28,4 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <commonModules>CommonModule.ОбщийМодуль1</commonModules>
 </mdclass:Configuration>
