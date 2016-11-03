@@ -29,5 +29,4 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <dataProcessors>DataProcessor.Обработка</dataProcessors>
 </mdclass:Configuration>
